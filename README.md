@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi there! I’m **Avishkar Wakhare**, a passionate learner and aspiring full-stack developer.<br>I’m currently building my skills in MERN Stack and strengthening my fundamentals in Data Structures & Algorithms.<br>I love solving problems, building fun and practical projects, and growing as a software engineer.<br>I’m actively working on real-world projects using JavaScript, HTML, CSS, and modern web technologies while improving my DSA and backend skills.<br>I’m looking to collaborate on open source projects, build great software, and explore job opportunities in software development.<br>Let’s connect and build something awesome together!<br>
+ Hi there! I’m **Avishkar Wakhare**, a passionate learner and aspiring full-stack developer.<br>I’m currently building my skills in MERN Stack and strengthening my fundamentals in Data Structures & Algorithms.<br>I love solving problems, building fun and practical projects, and growing as a software engineer.<br>I’m actively working on real-world projects using JavaScript, HTML, CSS,MERN Stack, and modern web technologies while improving my DSA and backend skills.<br>I’m looking to collaborate on open source projects, build great software, and explore job opportunities in software development.<br>Let’s connect and build something awesome together!<br>
 
 
 ## 🌐 Socials:
